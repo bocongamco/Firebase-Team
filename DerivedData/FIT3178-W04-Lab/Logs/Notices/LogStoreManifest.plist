@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>2073E909-6D43-4696-BCF7-EC26E65CE300</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2073E909-6D43-4696-BCF7-EC26E65CE300.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>702870279.19388795</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build FIT3178-W04-Lab</string>
+			<key>uniqueIdentifier</key>
+			<string>2073E909-6D43-4696-BCF7-EC26E65CE300</string>
+		</dict>
+		<key>298AEDDE-4035-41C8-AF92-CA69DB4F51EF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>298AEDDE-4035-41C8-AF92-CA69DB4F51EF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvcXV5bmhwaGFuXC9EZXNrdG9wXC9JT1NBcHBEZXZcL0ZJVDMxNzgtVzA0LUxhYlNvbHV0aW9uXC9GSVQzMTc4LVcwNC1MYWIueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiJBNkJBNTFDQjI3RENDNzBEMDA1MjExRDYifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>702870279.19388795</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build FIT3178-W04-Lab</string>
+			<key>uniqueIdentifier</key>
+			<string>298AEDDE-4035-41C8-AF92-CA69DB4F51EF</string>
+		</dict>
+		<key>982AC33C-743B-4F0A-B8B2-B1CBFCE51B3C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>982AC33C-743B-4F0A-B8B2-B1CBFCE51B3C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9xdXluaHBoYW5cL0Rlc2t0b3BcL0lPU0FwcERldlwvRklUMzE3OC1XMDQtTGFiU29sdXRpb25cL0ZJVDMxNzgtVzA0LUxhYi54Y29kZXByb2oifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>702870279.19388795</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build FIT3178-W04-Lab</string>
+			<key>uniqueIdentifier</key>
+			<string>982AC33C-743B-4F0A-B8B2-B1CBFCE51B3C</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

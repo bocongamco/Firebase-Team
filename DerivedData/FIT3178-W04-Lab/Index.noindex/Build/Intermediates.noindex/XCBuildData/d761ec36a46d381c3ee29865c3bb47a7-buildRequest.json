@@ -1,0 +1,58 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "659343efe7c72d67a0b1e034add7eccdc5a70aa3bf89cff7c3d389b68b46da0d"
+    }
+  ],
+  "containerPath" : "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/FIT3178-W04-Lab.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/DerivedData/FIT3178-W04-Lab/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/DerivedData/FIT3178-W04-Lab/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/DerivedData/FIT3178-W04-Lab/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/DerivedData/FIT3178-W04-Lab/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/DerivedData/FIT3178-W04-Lab/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/DerivedData/FIT3178-W04-Lab/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "f95b8a82e219ac360ad462b399ee92310363bb16fff9693cb8e6d5ab1129d13a"
+build_start_time: [1681177485, 251371860]
+build_end_time: [1681177497, 740116119]
+inputs:
+  "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/FIT3178-W04-Lab/AddSuperheroDelegate.swift": [1675241870, 0]
+  "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/FIT3178-W04-Lab/AllHeroesTableViewController.swift": [1675241870, 0]
+  "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/FIT3178-W04-Lab/AppDelegate.swift": [1675241870, 0]
+  "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/FIT3178-W04-Lab/CreateHeroViewController.swift": [1675241864, 0]
+  "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/FIT3178-W04-Lab/CurrentPartyTableViewController.swift": [1675241870, 0]
+  "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/FIT3178-W04-Lab/Database/CoreDataController.swift": [1675241870, 0]
+  "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/FIT3178-W04-Lab/Database/DatabaseProtocol.swift": [1675241870, 0]
+  "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/FIT3178-W04-Lab/Database/MulticastDelegate.swift": [1647746355, 0]
+  "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/FIT3178-W04-Lab/HeroCountTableViewCell.swift": [1675241870, 0]
+  "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/FIT3178-W04-Lab/SceneDelegate.swift": [1675241870, 0]
+  "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/FIT3178-W04-Lab/UIViewController+displayMessage.swift": [1675241870, 0]
+  "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/Superhero+CoreDataClass.swift": [1675241870, 0]
+  "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/Superhero+CoreDataProperties.swift": [1675241870, 0]
+  "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/Team+CoreDataClass.swift": [1675241870, 0]
+  "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/Team+CoreDataProperties.swift": [1675241870, 0]

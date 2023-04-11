@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0C418C11-DE66-484B-891F-3F322216F07F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0C418C11-DE66-484B-891F-3F322216F07F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FIT3178-W04-Lab project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FIT3178-W04-Lab</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build FIT3178-W04-Lab</string>
+			<key>timeStartedRecording</key>
+			<real>702870279.19388795</real>
+			<key>timeStoppedRecording</key>
+			<real>702870297.80950999</real>
+			<key>title</key>
+			<string>Build FIT3178-W04-Lab</string>
+			<key>uniqueIdentifier</key>
+			<string>0C418C11-DE66-484B-891F-3F322216F07F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
