@@ -30,7 +30,7 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UINavigationController-xjW-Sk-4N7.nib</key>
 		<data>
-		ajNc6ATYIG7Y7/llxMlfqsb0/9Q=
+		AgksHnftDuzAgE4APX44pzuNaqU=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UITableViewController-FFy-ae-Yhh.nib</key>
 		<data>
@@ -44,21 +44,17 @@
 		<data>
 		87+VF/bRIyQqx1MEYKxCv3EwLbI=
 		</data>
+		<key>GoogleService-Info.plist</key>
+		<data>
+		bMf0nW44GCnpHwGSOSKD2avvYds=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		6C9a83YHhjQl00z0lqUtx8TdU5k=
+		gqudP4hATk2MJHMlljSq9k64VIs=
 		</data>
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
-		</data>
-		<key>Week04-DataModel.momd/VersionInfo.plist</key>
-		<data>
-		fJ6PfPr+QXpBscu5rOF5a60k6O8=
-		</data>
-		<key>Week04-DataModel.momd/Week04-DataModel.mom</key>
-		<data>
-		c1wsPW/aIb40TP/JijKTbitQ1wQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -109,7 +105,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Br/AYhkX+lEdvRBmrZQ9EEcW46CJ3AhE4KDGsf0/W/U=
+			Oua4XsJZF8wisz/DNtrNAWYni85GZPYlv39QuA9uUM4=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UITableViewController-FFy-ae-Yhh.nib</key>
@@ -133,18 +129,11 @@
 			Kok/iDkpqrSt+9Q5qgmNcYSSb3Hvu03iCGG35hap6yo=
 			</data>
 		</dict>
-		<key>Week04-DataModel.momd/VersionInfo.plist</key>
+		<key>GoogleService-Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4lrtYuQeL6QgsFc1HLjS18WrSmq41h2r+xJjcKylHo8=
-			</data>
-		</dict>
-		<key>Week04-DataModel.momd/Week04-DataModel.mom</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Qooc9lHtxguCVK7BgcG5bfCYj/5Bg15wQ+losWsqA5E=
+			XCCQnuQBG7/B67Z7knx41kFFDfsuirb+5xF9lAcAwkA=
 			</data>
 		</dict>
 	</dict>

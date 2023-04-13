@@ -23,7 +23,7 @@ class CreateHeroViewController: UIViewController {
     }
     
     @IBAction func createHero(_ sender: Any) {
-        guard let name = nameTextField.text, let abilities = abilitiesTextField.text, let universe = Universe(rawValue: Int32(universeSegmentedControl.selectedSegmentIndex)) else {
+        guard let name = nameTextField.text, let abilities = abilitiesTextField.text, let universe = Universe(rawValue: Int(universeSegmentedControl.selectedSegmentIndex)) else {
             return
         }
 
