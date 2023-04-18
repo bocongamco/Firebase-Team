@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
 options: "cd3655b12e14d31527c9c804d4d48a2100885ee7c8722f8ca0b3a79f434a0776"
-build_start_time: [1681403366, 878585000]
-build_end_time: [1681403373, 511639000]
+build_start_time: [1681789566, 848805000]
+build_end_time: [1681789581, 156120000]
 inputs:
   "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/FIT3178-W04-Lab/AddSuperheroDelegate.swift": [1675241870, 0]
   "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/FIT3178-W04-Lab/AllHeroesTableViewController.swift": [1681381568, 143632821]
@@ -11,7 +11,7 @@ inputs:
   "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/FIT3178-W04-Lab/DataModel/Superhero.swift": [1681298331, 663960575]
   "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/FIT3178-W04-Lab/DataModel/Team.swift": [1681376712, 752039177]
   "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/FIT3178-W04-Lab/Database/DatabaseProtocol.swift": [1675241870, 0]
-  "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/FIT3178-W04-Lab/Database/FirebaseController.swift": [1681403365, 697539269]
+  "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/FIT3178-W04-Lab/Database/FirebaseController.swift": [1681789561, 310121686]
   "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/FIT3178-W04-Lab/Database/MulticastDelegate.swift": [1647746355, 0]
   "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/FIT3178-W04-Lab/HeroCountTableViewCell.swift": [1675241870, 0]
   "/Users/quynhphan/Desktop/IOSAppDev/FIT3178-W04-LabSolution/FIT3178-W04-Lab/SceneDelegate.swift": [1675241870, 0]

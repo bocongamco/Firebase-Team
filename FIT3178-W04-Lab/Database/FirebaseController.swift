@@ -133,9 +133,9 @@ class FirebaseController: NSObject,DatabaseProtocol {
     
     //Firebase
     func getHeroById(_ id: String) -> Superhero?{
-        print("Id: \(id)")
+       
         for hero in heroList{
-            print("HeroId: \(hero.id)")
+            
             if hero.id  == id{
                 
                 return hero
